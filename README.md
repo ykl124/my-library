@@ -1,5 +1,7 @@
 # my-library
-为了保护作者版权，这里并没有放任何书籍资源。这只是记录我日常阅读和一些思考。
+* 为了保护作者版权，这里并没有放任何书籍资源。这只是记录我日常阅读和一些思考。
+* 以前读过的书的摘录和思考也陆续会搬到github上来，时间上有所出入请不要介意。
+* 欢迎喜爱原版文学作品的程序员交流探讨。
 
 ## 2020 Reading List
 [Jan-Feb📚《Lean In》](https://github.com/ykl124/my-library/blob/master/%E3%80%8ALean%20in%E3%80%8B.md)<br>
