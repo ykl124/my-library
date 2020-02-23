@@ -4,7 +4,7 @@
 * 欢迎喜爱原版文学作品的程序员交流探讨。
 
 ## 2020 Reading List
-[Jan-Feb📚《Lean In》](https://github.com/ykl124/my-library/blob/master/%E3%80%8ALean%20in%E3%80%8B.md)<br>
+🔗[Jan-Feb📚《Lean In》](https://github.com/ykl124/my-library/blob/master/%E3%80%8ALean%20in%E3%80%8B.md)<br>
 ![Lean In](https://img1.doubanio.com/view/subject/s/public/s28023208.jpg)<br>
 ### Mar-Apr📚《Skin In The Game》
 ![Skin In The Game](https://img1.doubanio.com/view/subject/s/public/s29824647.jpg)<br>
