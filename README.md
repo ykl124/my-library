@@ -2,7 +2,7 @@
 为了保护作者版权，这里并没有放任何书籍资源。这只是记录我日常阅读和一些思考。
 
 ## 2020 Reading List
-[Jan-Feb📚《Lean In》](https://github.com/ykl124/my-library/blob/master/%E3%80%8ALean%20in%E3%80%8B.md)
+[Jan-Feb📚《Lean In》](https://github.com/ykl124/my-library/blob/master/%E3%80%8ALean%20in%E3%80%8B.md)<br>
 ![Lean In](https://img1.doubanio.com/view/subject/s/public/s28023208.jpg)<br>
 ### Mar-Apr📚《Skin In The Game》
 ![Skin In The Game](https://img1.doubanio.com/view/subject/s/public/s29824647.jpg)<br>
