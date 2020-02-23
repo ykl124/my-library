@@ -3,6 +3,8 @@
 * 以前读过的书的摘录和思考也陆续会搬到github上来，时间上有所出入请不要介意。
 * 欢迎喜爱原版文学作品的程序员交流探讨。
 
+2020年初，计划读完6本几年，不过不仅限于这6本，比如我现在一边在看《Lean In》一边在读《Kim Ji-Young Born, 1982》。这两本📖都与女性思想解放有关，这并不是偶然的，书里的内容就是我毕业工作以来的心路历程和社会上切身的遭遇。《Lean In》对我精神上变得自信强大非常有帮助，希望这些书不仅对女性，也能对广大男性同胞们起到帮助作用。
+
 ## 2020 Reading List
 🔗[Jan-Feb📚《Lean In》](https://github.com/ykl124/my-library/blob/master/%E3%80%8ALean%20in%E3%80%8B.md)<br>
 ![Lean In](https://img1.doubanio.com/view/subject/s/public/s28023208.jpg)<br>
