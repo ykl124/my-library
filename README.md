@@ -20,3 +20,7 @@ Chapter2 摘录：
 > How individuals view what they can and should accomplish is in large part formed by our societal expectations.
 
 
+> When a girl tries to lead, she is often labeled bossy. Boys are seldom called bossy because a boy taking the role of a boss does not surprise or offend.
+
+
+
