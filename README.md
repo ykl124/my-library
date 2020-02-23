@@ -17,4 +17,6 @@ Chapter2 摘录：
 
 > By the age of twenty-five, I had managed to get married ... and also divorced. At the time, this felt like a massive personal and public failure. For many years, I felt that no matter what I accomplished professionally, it paled in comparison to the scarlet letter D stitched on my chest. (Almost ten years later, I learned that the “good ones” were not all taken, and I wisely and very happily married Dave Goldberg.)
 
-> 
+> How individuals view what they can and should accomplish is in large part formed by our societal expectations.
+
+
