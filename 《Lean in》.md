@@ -20,7 +20,7 @@ Chapter1 excerpt:
 
 > The good news is that not only can women have both families and careers, they can thrive while doing so. Professor Rosalind Chait Barnett of Brandeis University did a comprehensive review of studies on work-life balance and found that women who participate in multiple roles actually have lower levels of anxiety and higher levels of mental well-being.36 Employed women reap rewards including greater financial security, more stable marriages, better health, and, in general, increased life satisfaction.
 
-> So please ask yourself: What would I do if I weren’t afraid? And then go do it. Writing this book is not just me encouraging others to lean in. This is me leaning in. Writing this book is what I would do if I weren’t afraid.
+> `So please ask yourself: What would I do if I weren’t afraid? And then go do it. Writing this book is not just me encouraging others to lean in. This is me leaning in. Writing this book is what I would do if I weren’t afraid.`
 
 Chapter2 excerpt:
 
