@@ -23,7 +23,7 @@ Chapter1 excerpt:
 > `So please ask yourself: What would I do if I weren’t afraid? And then go do it. Writing this book is not just me encouraging others to lean in. This is me leaning in. Writing this book is what I would do if I weren’t afraid.`
 
 Chapter2 excerpt:
-
+> This phenomenon of capable people being plagued by self-doubt has a name—the impostor syndrome. Both men and women are susceptible to the impostor syndrome, but women tend to experience it more intensely and be more limited by it.
 
 
 
